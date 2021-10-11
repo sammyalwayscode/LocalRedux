@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Samuel",
+    "email": "samuel@gmail.com",
+    "stark": "FullStark",
+    "desc": "HTML, css, Javascript, React, Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa.jpeg",
+    "price": "23.4"
+  },
+  {
+    "id": "2",
+    "name": "Yinka",
+    "email": "yinka@gmail.com",
+    "stark": "BackEnd",
+    "desc": "Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (2).jpg",
+    "price": "74.32"
+  },
+  {
+    "id": "3",
+    "name": "John",
+    "email": "johnee@gmail.com",
+    "stark": "FrontEnd",
+    "desc": "HTML, css, Javascript, React",
+    "img": "Img/aaa (3).jpg",
+    "price": "12.33"
+  },
+  {
+    "id": "4",
+    "name": "Seun",
+    "email": "seun@gmail.com",
+    "stark": "BackEnd",
+    "desc": "Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (4).jpg",
+    "price": "132.22"
+  },
+  {
+    "id": "5",
+    "name": "Shola",
+    "email": "sholex@gmail.com",
+    "stark": "FrontEnd",
+    "desc": "HTML, css, Javascript, React",
+    "img": "Img/aaa (5).jpg",
+    "price": "89.00"
+  },
+  {
+    "id": "6",
+    "name": "Gideon",
+    "email": "giddy@gmail.com",
+    "stark": "FrontEnd",
+    "desc": "HTML, css, Javascript, React",
+    "img": "Img/aaa (6).jpg",
+    "price": "23.99"
+  },
+  {
+    "id": "7",
+    "name": "Wisdom",
+    "email": "wizzy@gmail.com",
+    "stark": "BackEnd",
+    "desc": "Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (7).jpg",
+    "price": "34.0"
+  },
+  {
+    "id": "8",
+    "name": "Ayomide",
+    "email": "ayo@gmail.com",
+    "stark": "FullStark",
+    "desc": "HTML, css, Javascript, React, Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (8).jpg",
+    "price": "25.77"
+  },
+  {
+    "id": "9",
+    "name": "Olamide",
+    "email": "ola@gmail.com",
+    "stark": "FullStark",
+    "desc": "HTML, css, Javascript, React, Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (9).jpg",
+    "price": "95.22"
+  },
+  {
+    "id": "10",
+    "name": "Kola",
+    "email": "kola@gmail.com",
+    "stark": "BackEnd",
+    "desc": " Node, Firebase, MongoDB, Python",
+    "img": "Img/aaa (10).jpg",
+    "price": "122.33"
+  },
+  {
+    "id": "11",
+    "name": "Jide",
+    "email": "jide@gmail.com",
+    "stark": "FrontEnd",
+    "desc": "HTML, css, Javascript, React",
+    "img": "Img/aaa (11).jpg",
+    "price": "87.11"
+  }
+]
